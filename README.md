@@ -13,14 +13,9 @@
 
 ---
 
-## 📌 Assignment Context
+## 📌 Video Demo
 
-**MirAI School of Technology**  
-**Virtual Summer Internship 2026 — The AI Builder Track**
-
-**Assignment:** The Memory Vault — Stateful Chatbot  
-**Deadline:** July 14, 2026, 11:59 PM  
-**Submission Format:** Screen recording showing a continuous 3-message conversation + updated `app.py`
+https://github.com/user-attachments/assets/307e4451-a117-4709-875c-cd6bc3628a6a
 
 ---
 
@@ -185,23 +180,6 @@ Before submitting, test this exact flow:
 
 ---
 
-## 🎥 Screen Recording Plan
-
-For your portal submission, record:
-
-```text
-1. Terminal running streamlit run app.py
-2. Browser opening local app
-3. First message sent
-4. Second message sent
-5. Third message sent
-6. Chat history still visible
-7. Sidebar personality changed
-8. Chat history still visible
-```
-
----
-
 ## 📁 Project Structure
 
 ```text
@@ -211,17 +189,6 @@ memory-vault-stateful-chatbot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-```
-
----
-
-## ✅ Final Submission Files
-
-Submit these to the student portal:
-
-```text
-app.py
-screen_recording.mp4
 ```
 
 ---
